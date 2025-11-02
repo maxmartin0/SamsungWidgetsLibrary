@@ -11,9 +11,8 @@ license = {text = "MIT"}
 authors = [
   {name = "maxmartin0"}
 ]
-urls = { 
-  "Homepage" = "https://github.com/maxmartin0/SamsungWidgetsLibrary", 
-  "License" = "https://github.com/maxmartin0/SamsungWidgetsLibrary/blob/main/MIT"
+urls = { homepage = "https://github.com/maxmartin0/SamsungWidgetsLibrary" }
+
 }
 dependencies = ["customtkinter>=5.0"]
 keywords = ["tkinter", "customtkinter", "widgets", "samsung", "GUI"]
